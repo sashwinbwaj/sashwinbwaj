@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ashwin Bharathwaj Sekar! I'm currently pursuing my Master's in Business Analytics from UCLA Anderson. I come from a Data science background, 
+- 👋 Hi, I’m Ashwin Bharathwaj Sekar!   
+- I'm currently pursuing my Master's in Business Analytics from UCLA Anderson. I come from a Data science background, 
 with over four years of experience in the Fin-Tech industry. Welcome to my page!
 
 A couple of things about me!
