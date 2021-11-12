@@ -6,7 +6,8 @@ A couple of things about me!
 - 👀 I’m interested in painting (I have a portfolio page at www.ashwinartworks.come) & soccer!
 - 🌱 I’m currently learning recommender systems & associative rule learning.
 - 💞️ I’m looking to collaborate on Kaggle Data Science competitions! 
-- 📫 You can reach me at sashwinbwaj@ucla or at through Linkedin (https://www.linkedin.com/in/ashwin-bharathwaj)
+- 📫 You can reach me at sashwinbwaj@ucla   
+- Linkedin (https://www.linkedin.com/in/ashwin-bharathwaj)
 
 <!---
 sashwinbwaj/sashwinbwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
